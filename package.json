@@ -1,15 +1,14 @@
 {
   "name": "unifiednun",
   "version": "1.0.0",
-  "description": "Client-side blockchain powered by Proof-of-Visit mining and GunDB sync",
+  "description": "Zero-cost blockchain powered by Proof-of-Visit mining",
   "author": "Simona",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "prepare": "husky install"
+    "lint": "next lint"
   },
   "dependencies": {
     "@fingerprintjs/fingerprintjs": "^3.5.8",
@@ -25,9 +24,6 @@
     "@types/uuid": "^9.0.2",
     "eslint": "^8.48.0",
     "eslint-config-next": "13.4.19",
-    "husky": "^8.0.3",
     "typescript": "^5.2.2"
   }
-}
-
 }
