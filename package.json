@@ -13,7 +13,7 @@
   "dependencies": {
     "@fingerprintjs/fingerprintjs": "^3.5.8",
     "gun": "^0.2020.1237",
-    "next": "13.4.19",
+    "next": "14.2.30",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "uuid": "^9.0.0"
@@ -21,7 +21,7 @@
  "dependencies": {
   "@fingerprintjs/fingerprintjs": "^3.3.6",
   "gun": "^0.2020.1237",
-  "next": "13.4.19",
+  "next": "14.2.30",
   "react": "18.2.0",
   "react-dom": "18.2.0",
   "uuid": "^9.0.0"
